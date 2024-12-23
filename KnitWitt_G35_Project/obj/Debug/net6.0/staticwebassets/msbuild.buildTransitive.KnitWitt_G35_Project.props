@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KnitWitt_G35_Project.props" />
+</Project>
